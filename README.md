@@ -55,11 +55,11 @@ Backend는 Microservice 형태로 구성되어 있으며, 각 Microservice에 �
 
 ## Mixin
 
-공통으로 사용할 수 있는 함수들은 mixin으로 분리 했으며, mixin역시 mixin component를 만들어서 재사용 가능하게 작업 하고 있습니다.
+공통으로 사용할 수 있는 함수들은 mixin으로 분리 했으며, mixin역시 mixin component를 만들어서 재사용 가능하게 작업하고 있습니다.
 
 ## 라이브러리 컴파일
 
-`vue-cli-service`의 library 컴파일을 이용하여 library 컴파일을 하고 있으며, 컴파일된 라이브러리는 npm에 배포 하고 있습니다.
+`vue-cli-service`의 library 컴파일을 이용하여 library 컴파일을 하고 있으며, 컴파일된 라이브러리는 npm에 배포하고 있습니다.
 
 - 컴파일 명령 예시
 
